@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A wide-raging and passionate developer from Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reyrot24" alt="reyrot24" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Swift, React Native and soon Python**
