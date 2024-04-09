@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, tailwind css and swift**
 
-- ⚡ Fun fact: **I'm an eclectic person, I like to learn various disciplines and skills, I like martial arts, music, chess and languages**
+- ⚡ Fun fact: **I'm an eclectic person, I like to learn various disciplines and skills, I like martial arts 🥊, music 🎵, chess ♟ and languages 🇷🇺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
