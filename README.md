@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A wide-raging and passionate developer from Italy</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on a **Booking Web App, with Dashboard, Auth and Booking Logic**
 
-- 🌱 I’m currently learning **Swift, React Native and soon Python**
+- 🌱 I’m currently learning **Swift, React Native**
 
 - 👯 I’m looking to collaborate on **many different projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Swift and with my Booking Project**
 
 - 💬 Ask me about **react, tailwind css and swift**
 
-- ⚡ Fun fact: **I'm an eclectic person, I like to learn various disciplines and skills, I like martial arts 🥊, music 🎵, chess ♟ and languages 🇷🇺**
+- ⚡ Fun fact: **I'm a polymath, I like to learn various disciplines and skills, I like martial arts 🥊, sports 🏋🏻‍♂️, music and guitar 🎸, chess ♟, learning languages 🇷🇺 🇯🇵 and tech 💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
