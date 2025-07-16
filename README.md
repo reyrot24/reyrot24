@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A wide-raging and passionate developer from Italy</h3>
 
-- 🔭 I’m currently working on a **Booking Web App, with Dashboard, Auth and Booking Logic**
+- 🔭 I’m currently working on a **Skills & passions tracker**
 
-- 🌱 I’m currently learning **Swift, React Native**
+- 🌱 I’m currently learning **Swift & React Native**
 
 - 👯 I’m looking to collaborate on **many different projects**
 
-- 🤝 I’m looking for help with **Swift and with my Booking Project**
+- 🤝 I’m looking for help with **Swift & React Native**
 
 - 💬 Ask me about **react, tailwind css and swift**
 
